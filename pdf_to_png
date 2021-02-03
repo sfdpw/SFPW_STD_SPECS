@@ -1,0 +1,4 @@
+pdftoppm input.pdf outputname -png
+
+
+sudo gedit /usr/share/hunspell/en_US.dic
